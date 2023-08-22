@@ -46,7 +46,6 @@ gunyah.ko
 mdt_loader.ko
 hwkm.ko
 icc-bcm-voter.ko
-icc-debug.ko
 iommu-logger.ko
 llcc-qcom.ko
 mem-hooks.ko
@@ -124,7 +123,6 @@ sec_qc_debug.ko
 sec_qc_summary.ko
 sec_qc_dbg_partition.ko
 sec_qc_param.ko
-spmi-pmic-arb-debug.ko
 msm_sysstats.ko
 twofish_generic.ko
 twofish_common.ko
@@ -156,7 +154,6 @@ debugcc-kalama.ko
 gpucc-kalama.ko
 bam_dma.ko
 msm_gpi.ko
-qcom_cpuss_sleep_stats.ko
 pdr_interface.ko
 qmi_helpers.ko
 heap_mem_ext_v01.ko
@@ -167,8 +164,6 @@ qsee_ipc_irq_bridge.ko
 glink_probe.ko
 glink_pkt.ko
 pmic_glink.ko
-qti_battery_debug.ko
-charger-ulog-glink.ko
 altmode-glink.ko
 pmic-glink-debug.ko
 soc_sleep_stats.ko
@@ -187,7 +182,6 @@ usb_bam.ko
 memlat.ko
 memlat_scmi.ko
 cpufreq_stats_scmi.ko
-rimps_log.ko
 qcom_ramdump.ko
 panel_event_notifier.ko
 dmesg_dumper.ko
@@ -202,7 +196,6 @@ spss_utils.ko
 spcom.ko
 msm_performance.ko
 qcom_va_minidump.ko
-hung_task_enh.ko
 qfprom-sys.ko
 wcd_usbss_i2c.ko
 qti-fixed-regulator.ko
@@ -212,7 +205,6 @@ hvc_gunyah.ko
 msm_geni_serial.ko
 frpc-adsprpc.ko
 rdbg.ko
-qcom_iommu_debug.ko
 lt9611uxc.ko
 qseecom_proxy.ko
 sec_ap_pmic.ko
@@ -231,7 +223,6 @@ phy-msm-m31-eusb2.ko
 dwc3-msm.ko
 ehset.ko
 lvstest.ko
-f_fs_ipc_log.ko
 usb_f_cdev.ko
 usb_f_ccid.ko
 usb_f_qdss.ko
@@ -274,7 +265,6 @@ qti_userspace_cdev.ko
 sdpm_clk.ko
 qcom_edac.ko
 cpufreq_limit.ko
-qcom-cpufreq-hw-debug.ko
 qcom_lpm.ko
 sdhci-msm-sec.ko
 leds-qti-flash.ko
@@ -305,7 +295,6 @@ qcom-spmi-adc5-gen3.ko
 qcom-vadc-common.ko
 industrialio-buffer-cb.ko
 nvmem_qfprom.ko
-icc-test.ko
 sec_arm64_fsimd_debug.ko
 sec_arm64_debug.ko
 sec_qc_rbcmd.ko
@@ -366,19 +355,6 @@ stm_ts_spi.ko
 slimbus.ko
 slim-qcom-ngd-ctrl.ko
 hwmon.ko
-coresight.ko
-coresight-tmc.ko
-coresight-funnel.ko
-coresight-replicator.ko
-coresight-stm.ko
-coresight-cti.ko
-coresight-tpda.ko
-coresight-tpdm.ko
-coresight-csr.ko
-coresight-dummy.ko
-coresight-remote-etm.ko
-coresight-tgu.ko
-coresight-hwevent.ko
 stm_core.ko
 stm_p_basic.ko
 stm_p_ost.ko

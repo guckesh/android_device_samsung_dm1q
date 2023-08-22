@@ -1,4 +1,3 @@
-spmi-pmic-arb-debug.ko
 msm_sysstats.ko
 twofish_generic.ko
 twofish_common.ko
@@ -61,7 +60,6 @@ usb_bam.ko
 memlat.ko
 memlat_scmi.ko
 cpufreq_stats_scmi.ko
-rimps_log.ko
 qcom_ramdump.ko
 panel_event_notifier.ko
 dmesg_dumper.ko
@@ -148,7 +146,6 @@ qti_userspace_cdev.ko
 sdpm_clk.ko
 qcom_edac.ko
 cpufreq_limit.ko
-qcom-cpufreq-hw-debug.ko
 qcom_lpm.ko
 sdhci-msm-sec.ko
 leds-qti-flash.ko
@@ -179,7 +176,6 @@ qcom-spmi-adc5-gen3.ko
 qcom-vadc-common.ko
 industrialio-buffer-cb.ko
 nvmem_qfprom.ko
-icc-test.ko
 sec_arm64_fsimd_debug.ko
 sec_arm64_debug.ko
 sec_qc_rbcmd.ko
@@ -242,19 +238,6 @@ stm_ts_spi.ko
 slimbus.ko
 slim-qcom-ngd-ctrl.ko
 hwmon.ko
-coresight.ko
-coresight-tmc.ko
-coresight-funnel.ko
-coresight-replicator.ko
-coresight-stm.ko
-coresight-cti.ko
-coresight-tpda.ko
-coresight-tpdm.ko
-coresight-csr.ko
-coresight-dummy.ko
-coresight-remote-etm.ko
-coresight-tgu.ko
-coresight-hwevent.ko
 stm_core.ko
 stm_p_basic.ko
 stm_p_ost.ko
