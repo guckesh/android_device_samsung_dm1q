@@ -24,6 +24,12 @@ PRODUCT_SOONG_NAMESPACES += \
 PRODUCT_PACKAGES += \
     FrameworksResDm1q
 
+# WiFi firmware symlinks
+PRODUCT_PACKAGES += \
+    firmware_wlanmdsp.otaupdate_symlink \
+    firmware_wlan_mac.bin_symlink \
+    firmware_WCNSS_qcom_cfg.ini_symlink
+
 # Inherit from the common OEM chipset makefile.
 $(call inherit-product, device/samsung/sm8550-common/common.mk)
 
