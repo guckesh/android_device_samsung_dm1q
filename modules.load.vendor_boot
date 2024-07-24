@@ -57,7 +57,6 @@ qnoc-kalama.ko
 nvmem_qcom-spmi-sdam.ko
 phy-qcom-ufs.ko
 phy-qcom-ufs-qmp-v4-kalama.ko
-phy-qcom-ufs-qmp-v4-crow.ko
 phy-qcom-ufs-qrbtc-sdm845.ko
 arm_smmu.ko
 pinctrl-msm.ko
