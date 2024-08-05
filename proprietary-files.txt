@@ -107,6 +107,7 @@ vendor/lib/camera/fdconfigsecure.bin
 vendor/lib/camera/fdconfigvideo.bin
 vendor/lib/camera/fdconfigvideolite.bin
 vendor/lib/libthirdparty_zoomtranslator_imp.so
+vendor/lib64/SWPD_libTsAf_3K1_TELE.so
 vendor/lib64/camera/com.samsung.ois.mcu_stm32g.so
 vendor/lib64/camera/com.samsung.sensormodule.0_lsi_s5kgn3.bin
 vendor/lib64/camera/com.samsung.sensormodule.12_lsi_s5k3lu_full.bin
@@ -226,6 +227,9 @@ vendor/lib64/com.qualcomm.qti.mcx.usecase.extension.so
 vendor/lib64/hw/camera.qcom.so
 vendor/lib64/hw/com.qti.chi.offline.so
 vendor/lib64/hw/com.qti.chi.override.so
+vendor/lib64/libTsAf_DM123Q.so
+vendor/lib64/libTsAwbFront_DM2.so
+vendor/lib64/libTsAwb_DM2.so
 vendor/lib64/libcamerapostproc.so
 vendor/lib64/libcamxcommonutils.so
 vendor/lib64/libcamxexternalformatutils.so
