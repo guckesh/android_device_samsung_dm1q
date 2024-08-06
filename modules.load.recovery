@@ -7,12 +7,10 @@ qcom_wdt_core.ko
 gh_virt_wdt.ko
 qcom_cpu_vendor_hooks.ko
 clk-rpmh.ko
-gcc-crow.ko
 gcc-kalama.ko
 icc-rpmh.ko
 camcc-kalama.ko
 qcom_ipcc.ko
-qcom_ipc_logging.ko
 qcom-pdc.ko
 thermal_minidump.ko
 qcom_tsens.ko
@@ -32,7 +30,6 @@ crypto-qti-hwkm.ko
 dcc_v2.ko
 dcvs_fp.ko
 debug-regulator.ko
-dispcc-crow.ko
 dispcc-kalama.ko
 tcsrcc-kalama.ko
 videocc-kalama.ko
@@ -55,11 +52,8 @@ mem_buf.ko
 memory_dump_v2.ko
 minidump.ko
 msm_dma_iommu_mapping.ko
-pinctrl-crow.ko
 pinctrl-kalama.ko
 qnoc-kalama.ko
-qnoc-crow.ko
-ns.ko
 nvmem_qcom-spmi-sdam.ko
 phy-qcom-ufs.ko
 phy-qcom-ufs-qmp-v4-kalama.ko
@@ -86,7 +80,6 @@ qcom_rpmh.ko
 qcom-scm.ko
 qnoc-qos.ko
 qrtr.ko
-qti-regmap-debugfs.ko
 regmap-spmi.ko
 rtc-pm8xxx.ko
 sec_class.ko
@@ -146,10 +139,6 @@ pinctrl-spmi-mpp.ko
 pwm-qti-lpg.ko
 pci-msm-drv.ko
 lcd.ko
-gpucc-crow.ko
-videocc-crow.ko
-camcc-crow.ko
-debugcc-crow.ko
 debugcc-kalama.ko
 gpucc-kalama.ko
 bam_dma.ko
@@ -165,7 +154,6 @@ glink_probe.ko
 glink_pkt.ko
 pmic_glink.ko
 altmode-glink.ko
-pmic-glink-debug.ko
 soc_sleep_stats.ko
 cdsprm.ko
 sysmon_subsystem_stats.ko
@@ -186,7 +174,6 @@ qcom_ramdump.ko
 panel_event_notifier.ko
 dmesg_dumper.ko
 sys_pm_vx.ko
-plh_scmi.ko
 qdss_bridge.ko
 fsa4480-i2c.ko
 msm_show_epoch.ko
@@ -196,10 +183,8 @@ spss_utils.ko
 spcom.ko
 msm_performance.ko
 qcom_va_minidump.ko
-qfprom-sys.ko
 wcd_usbss_i2c.ko
 qti-fixed-regulator.ko
-qpnp-amoled-regulator.ko
 qti-ocp-notifier.ko
 hvc_gunyah.ko
 msm_geni_serial.ko
@@ -212,6 +197,7 @@ nfc_sec.ko
 sg.ko
 spi-msm-geni.ko
 smsc.ko
+mcp25xxfd.ko
 smsc75xx.ko
 smsc95xx.ko
 msm_sharedmem.ko
@@ -222,7 +208,6 @@ phy-msm-snps-eusb2.ko
 phy-msm-m31-eusb2.ko
 dwc3-msm.ko
 ehset.ko
-lvstest.ko
 usb_f_cdev.ko
 usb_f_ccid.ko
 usb_f_qdss.ko
@@ -269,11 +254,9 @@ qcom_lpm.ko
 sdhci-msm-sec.ko
 leds-qti-flash.ko
 leds-qti-tri-led.ko
-leds-qpnp-vibrator-ldo.ko
 leds-s2mpb02.ko
 memlat_vendor.ko
 cpufreq_stats_vendor.ko
-plh_vendor.ko
 ipa_fmwk.ko
 ep_pcie_drv.ko
 mhi_dev_drv.ko
@@ -355,11 +338,7 @@ stm_ts_spi.ko
 slimbus.ko
 slim-qcom-ngd-ctrl.ko
 hwmon.ko
-stm_core.ko
-stm_p_basic.ko
-stm_p_ost.ko
-stm_console.ko
-stm_ftrace.ko
+qti_amoled_ecm.ko
 sensors_core.ko
 adsp_factory_module.ko
 snd-usb-audio-qmi.ko
@@ -376,12 +355,10 @@ mac80211.ko
 qrtr-smd.ko
 qrtr-mhi.ko
 qrtr-gunyah.ko
-hdcp_qseecom_dlkm.ko
 smcinvoke_dlkm.ko
 msm_drm.ko
 msm_ext_display.ko
 sync_fence.ko
 msm_hw_fence.ko
 msm-mmrm.ko
-hdcp_qseecom_dlkm.ko
 smcinvoke_dlkm.ko
