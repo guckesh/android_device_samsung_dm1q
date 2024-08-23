@@ -1,0 +1,11 @@
+//
+// Copyright (C) 2024 The LineageOS Project
+// SPDX-License-Identifier: Apache-2.0
+//
+
+prebuilt_etc {
+    name: "init.dm1q.rc",
+    src: "init.dm1q.rc",
+    sub_dir: "init/hw",
+    vendor: true,
+}
