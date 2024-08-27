@@ -253,6 +253,7 @@ vendor/etc/display/qdcm_calib_data_DM1_S6E3FAC_AMB606AW01.json
 vendor/etc/nfc/libnfc-nxp_RF.conf
 
 # RIL
+vendor/etc/init/init.vendor.onebinary.rc
 vendor/etc/init/init.vendor.rilcommon.rc
 vendor/etc/init/vendor.samsung.rilchip.qcom.rc
 
