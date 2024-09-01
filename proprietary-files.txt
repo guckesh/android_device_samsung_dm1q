@@ -149,11 +149,24 @@ vendor/lib64/libtriplecam_optical_zoom_control.so
 vendor/lib64/libtriplecam_video_optical_zoom.so
 
 # Camera firmware
+vendor/firmware/CAMERA_ICP.b20
+vendor/firmware/CAMERA_ICP.mbn
+vendor/firmware/CAMERA_ICP.mdt
 vendor/firmware/ois_mcu_stm32g_fw.bin
 
 # Display calibration data
 vendor/etc/display/qdcm_calib_data_DM1_LX83118_CM002.json
 vendor/etc/display/qdcm_calib_data_DM1_S6E3FAC_AMB606AW01.json
+
+# EVA firmware
+vendor/firmware/evass.b19
+vendor/firmware/evass.mbn
+vendor/firmware/evass.mdt
+
+# Graphics (Adreno firmware)
+vendor/firmware/a740_zap.b02
+vendor/firmware/a740_zap.mbn
+vendor/firmware/a740_zap.mdt
 
 # NFC
 vendor/etc/nfc/libnfc-nxp_RF.conf
@@ -180,6 +193,9 @@ vendor/lib64/sensors.ssc.so
 # Touchscreen firmware
 vendor/firmware/tsp_stm/fts2ba61y_dm1q.bin
 vendor/firmware/tsp_stm/fts2ba61y_dm1q_boe.bin
+
+# VPU firmware
+vendor/firmware/vpu30_4v.mbn
 
 # Vendor firmware
 vendor/firmware/DM1_LX83118_CM002.dat
