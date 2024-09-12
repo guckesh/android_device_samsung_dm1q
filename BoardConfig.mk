@@ -13,3 +13,6 @@ TARGET_OTA_ASSERT_DEVICE := dm1q
 
 # Display
 TARGET_SCREEN_DENSITY := 450
+
+# Kernel
+TARGET_KERNEL_CONFIG := dm1q_defconfig
