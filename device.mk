@@ -22,7 +22,8 @@ PRODUCT_SOONG_NAMESPACES += \
 
 # Overlays
 PRODUCT_PACKAGES += \
-    FrameworksResDm1q
+    FrameworksResDm1q \
+    SystemUIResDm1q
 
 # WiFi firmware symlinks
 PRODUCT_PACKAGES += \
