@@ -1,4 +1,4 @@
-# All unpinned blobs are extracted from S911BXXS6CXG8
+# All unpinned blobs are extracted from S911BXXU6CXH7
 
 # ACDB
 vendor/etc/audconf/OPEN/acdb_cal.acdb
@@ -176,6 +176,7 @@ vendor/etc/nfc/libnfc-nxp_RF.conf
 vendor/etc/init/init.vendor.onebinary.rc
 vendor/etc/init/init.vendor.rilcommon.rc
 vendor/etc/init/vendor.samsung.rilchip.qcom.rc
+vendor/etc/init/vendor.samsung.rild.rc
 
 # Sensors config
 vendor/etc/sensors/config/kailua_ak991x_1.json
