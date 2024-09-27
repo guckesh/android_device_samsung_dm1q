@@ -12,9 +12,9 @@ $(call inherit-product, $(SRC_TARGET_DIR)/product/full_base_telephony.mk)
 $(call inherit-product, device/samsung/dm1q/device.mk)
 
 # Inherit from the Lineage configuration.
-$(call inherit-product, vendor/lineage/config/common_full_phone.mk)
+$(call inherit-product, vendor/voltage/config/common_full_phone.mk)
 
-PRODUCT_NAME := lineage_dm1q
+PRODUCT_NAME := voltage_dm1q
 PRODUCT_DEVICE := dm1q
 PRODUCT_BRAND := Samsung
 PRODUCT_MODEL := SM-S911B
@@ -26,3 +26,8 @@ PRODUCT_BUILD_PROP_OVERRIDES += \
     PRIVATE_BUILD_DESC="dm1qxxx-user 14 UP1A.231005.007 S911BXXS6CXI4 release-keys"
 
 BUILD_FINGERPRINT := samsung/dm1qxxx/dm1q:14/UP1A.231005.007/S911BXXS6CXI4:user/release-keys
+
+# Bootanimation
+TARGET_BOOT_ANIMATION_RES := 1920
+
+VOLTAGE_BUILD_TYPE = OFFICIAL
