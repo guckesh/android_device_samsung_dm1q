@@ -13,7 +13,7 @@ vendor/firmware/bt_nvm_loading.xml
 vendor/firmware/bt_nvm_loading_2nd.xml
 
 # Camera
-vendor/lib64/SWPD_libTsAf_3K1_TELE.so
+vendor/lib64/SWPD_libTsAf_3K1_TELE.so;FIX_SONAME
 vendor/lib64/camera/com.samsung.ois.mcu_stm32g.so
 vendor/lib64/camera/com.samsung.sensormodule.0_lsi_s5kgn3.bin
 vendor/lib64/camera/com.samsung.sensormodule.12_lsi_s5k3lu_full.bin
@@ -90,18 +90,18 @@ vendor/lib64/camera/components/com.samsung.node.smooth_transition.so
 vendor/lib64/camera/components/com.samsung.node.uniplugin_capture.so
 vendor/lib64/camera/components/com.samsung.node.uniplugin_preview.so
 vendor/lib64/camera/components/com.samsung.node.uniplugin_recording.so
-vendor/lib64/camera/components/com.samsung.node.uniplugin_vdis.so
 vendor/lib64/camera/components/com.ss.stats.aec.so
 vendor/lib64/camera/components/com.ss.stats.af.so
 vendor/lib64/camera/components/com.ss.stats.awb.so
 vendor/lib64/camera/components/com.ss.stats.pdlib.so
-vendor/lib64/camera/components/libTsAeFront_dm3.so
-vendor/lib64/camera/components/libTsAe_dm2.so
+vendor/lib64/camera/components/libTsAeFront_dm3.so;FIX_SONAME
+vendor/lib64/camera/components/libTsAe_dm2.so;FIX_SONAME
 vendor/lib64/camera/components/libdepthmapwrapper_secure.so
 vendor/lib64/camera/t_t10_dual_calibration.bin
 vendor/lib64/camera/uw_dual_calibration.bin
 vendor/lib64/camera/w_dual_calibration.bin
 vendor/lib64/com.qti.camx.chiiqutils.so
+vendor/lib64/com.qti.chiusecaseselector.so
 vendor/lib64/com.qti.feature2.afbrckt.so
 vendor/lib64/com.qti.feature2.anchorsync.so
 vendor/lib64/com.qti.feature2.demux.so
@@ -125,6 +125,7 @@ vendor/lib64/com.qti.feature2.serializer.so
 vendor/lib64/com.qti.feature2.statsregeneration.so
 vendor/lib64/com.qti.feature2.stub.so
 vendor/lib64/com.qti.feature2.swmf.so
+vendor/lib64/com.qualcomm.mcx.distortionmapper.so
 vendor/lib64/com.qualcomm.mcx.linearmapper.so
 vendor/lib64/com.qualcomm.mcx.nonlinearmapper.so
 vendor/lib64/com.qualcomm.mcx.policy.mfl.so
@@ -133,14 +134,12 @@ vendor/lib64/com.qualcomm.qti.mcx.usecase.extension.so
 vendor/lib64/hw/camera.qcom.so
 vendor/lib64/hw/com.qti.chi.offline.so
 vendor/lib64/hw/com.qti.chi.override.so
-vendor/lib64/libTsAf_DM123Q.so
+vendor/lib64/libTsAf_DM123Q.so;FIX_SONAME
 vendor/lib64/libTsAwbFront_DM2.so
 vendor/lib64/libTsAwb_DM2.so
 vendor/lib64/libcamerapostproc.so
-vendor/lib64/libcamxcommonutils.so
 vendor/lib64/libcamxexternalformatutils.so
 vendor/lib64/libcamximageformatutils.so
-vendor/lib64/libcamxsettingsmanager.so
 vendor/lib64/libcamxswispiqmodule.so
 vendor/lib64/libchifeature2.so
 vendor/lib64/libcom.qti.chinodeutils.so
