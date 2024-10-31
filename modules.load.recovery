@@ -124,11 +124,11 @@ blk-sec-stats.ko
 blk-sec-wb.ko
 msm_show_resume_irq.ko
 mhi.ko
-mhi_cntrl_qcom.ko
 mhi_dev_uci.ko
 mhi_dev_netdev.ko
 mhi_dev_dtr.ko
 mhi_dev_satellite.ko
+mhi_cntrl_qcom.ko
 phy-qcom-ufs-qmp-v4-waipio.ko
 phy-qcom-ufs-qmp-v4.ko
 phy-qcom-ufs-qmp-v4-khaje.ko
@@ -207,6 +207,7 @@ phy-msm-snps-eusb2.ko
 phy-msm-m31-eusb2.ko
 dwc3-msm.ko
 ehset.ko
+lvstest.ko
 usb_f_cdev.ko
 usb_f_ccid.ko
 usb_f_qdss.ko
@@ -331,9 +332,9 @@ sec-battery.ko
 snvm.ko
 pdic_max77705.ko
 sec_thermistor.ko
+stm_ts_spi.ko
 isg6320.ko
 s2miw04_charger.ko
-stm_ts_spi.ko
 slimbus.ko
 slim-qcom-ngd-ctrl.ko
 hwmon.ko
@@ -354,10 +355,10 @@ mac80211.ko
 qrtr-smd.ko
 qrtr-mhi.ko
 qrtr-gunyah.ko
+hdcp_qseecom_dlkm.ko
 smcinvoke_dlkm.ko
 msm_drm.ko
 msm_ext_display.ko
 sync_fence.ko
 msm_hw_fence.ko
 msm-mmrm.ko
-smcinvoke_dlkm.ko
