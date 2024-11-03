@@ -97,7 +97,6 @@ usb_f_qdss.ko
 usb_f_gsi.ko
 usb_f_diag.ko
 usb_f_conn_gadget.ko
-usb_f_ss_mon_gadget.ko
 usb_f_ss_acm.ko
 ucsi_glink.ko
 usbmon.ko
