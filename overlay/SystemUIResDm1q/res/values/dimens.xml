@@ -17,4 +17,7 @@
     <!-- Location on the screen of the center of the fingerprint sensor. -->
     <dimen name="physical_fingerprint_sensor_center_screen_location_y">1737.0px</dimen>
 
+    <!-- Pixel pitch of the device. um/px -->
+    <item name="pixel_pitch" format="float" type="dimen">60.12</item>
+
 </resources>
