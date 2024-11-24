@@ -1,7 +1,3 @@
-sec_boot_stat.ko
-sec_log_buf.ko
-sec_arm64_ap_context.ko
-sec_qc_logger.ko
 abc.ko
 qcom_wdt_core.ko
 gh_virt_wdt.ko
@@ -82,15 +78,6 @@ qrtr.ko
 regmap-spmi.ko
 rtc-pm8xxx.ko
 sec_class.ko
-sec_crashkey.ko
-sec_crashkey_long.ko
-sec_debug.ko
-sec_debug_region.ko
-sec_key_notifier.ko
-sec_param.ko
-sec_pmsg.ko
-sec_qc_upload_cause.ko
-sec_upload_cause.ko
 i2c-gpio.ko
 pmic_class.ko
 mfd_s2mpb02.ko
@@ -98,7 +85,6 @@ s2mpb02-regulator.ko
 secure_buffer.ko
 smem.ko
 socinfo.ko
-softdog.ko
 stub-regulator.ko
 qcom_aoss.ko
 msm_qmp.ko
@@ -114,7 +100,6 @@ nvme.ko
 sec_qc_debug.ko
 sec_qc_summary.ko
 sec_qc_dbg_partition.ko
-sec_qc_param.ko
 msm_sysstats.ko
 twofish_generic.ko
 twofish_common.ko
