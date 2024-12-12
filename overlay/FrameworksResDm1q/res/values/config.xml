@@ -29,7 +29,7 @@
 
          @see https://www.w3.org/TR/SVG/paths.html#PathData
          -->
-    <string name="config_mainBuiltInDisplayCutout" translatable="false">M 0,0 H -9.244444444444444 V 26.31111111111111 H 9.244444444444444 V 0 H 0 Z @dp</string>
+    <string name="config_mainBuiltInDisplayCutout" translatable="false">M 0,0 H -9.333333333333333‬ V 27 H 9.333333333333333‬ V 0 H 0 Z @dp</string>
 
     <!-- Note: This setting is deprecated, please use
     config_screenBrightnessSettingMinimumFloat instead -->
