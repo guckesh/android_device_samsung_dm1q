@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <device name="Android">
     <item name="none">0</item>
-    <item name="ambient.on">19.86</item>
-    <item name="screen.on.display0">82.6</item>
-    <item name="screen.full.display0">240.2</item>
+    <item name="ambient.on">20.84</item>
+    <item name="screen.on.display0">73.9</item>
+    <item name="screen.full.display0">202.6</item>
     <item name="bluetooth.active">0</item>
     <item name="bluetooth.on">0</item>
     <item name="wifi.on">0</item>
@@ -157,10 +157,10 @@
         <value>1080</value>
         <value>1139</value>
     </array>
-    <item name="cpu.suspend">7.5</item>
-    <item name="cpu.idle">19.2</item>
-    <item name="battery.capacity">3900</item>
-    <item name="battery.typical.capacity">4000</item>
+    <item name="cpu.suspend">6.6</item>
+    <item name="cpu.idle">19.6</item>
+    <item name="battery.capacity">3785</item>
+    <item name="battery.typical.capacity">3900</item>
     <item name="bluetooth.controller.idle">6</item>
     <item name="bluetooth.controller.rx">28</item>
     <item name="bluetooth.controller.tx">36</item>
