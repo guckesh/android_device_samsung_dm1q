@@ -199,16 +199,16 @@ vendor/firmware/tsp_stm/fts2ba61y_dm1q_boe.bin
 vendor/firmware/vpu30_4v.mbn
 
 # Vendor firmware - from S9110ZHU4CXH7
-vendor/firmware/CAMERA_ICP.b20:odm/firmware/CAMERA_ICP.b20|266e1f7cba5d0ecd5553130c7d22146f7b2cf3c6
-vendor/firmware/CAMERA_ICP.mbn:odm/firmware/CAMERA_ICP.mbn|a95088cd0052dc426e8209e89e934c5ada5340c8
-vendor/firmware/CAMERA_ICP.mdt:odm/firmware/CAMERA_ICP.mdt|5981444de1872fc939195ca49edbaf7d00b52a0c
-vendor/firmware/a740_zap.b02:odm/firmware/a740_zap.b02|5e7ba9ea75e98904dc55b2611bb9cd41d6d93e2e
-vendor/firmware/a740_zap.mbn:odm/firmware/a740_zap.mbn|da6e4b4976d1e222518709dc57c85f12cd577224
-vendor/firmware/a740_zap.mdt:odm/firmware/a740_zap.mdt|8337b75ce42e7ea940f316c1a818de6c2cb13943
-vendor/firmware/evass.b19:odm/firmware/evass.b19|f11a140840ed0e39e5f226859ac7956c336b0826
-vendor/firmware/evass.mbn:odm/firmware/evass.mbn|6ce97b8f02b42ec69a281d441401ff5a19387764
-vendor/firmware/evass.mdt:odm/firmware/evass.mdt|6d64388955288cf7fe439935618e7ef9ea2ca495
-vendor/firmware/vpu30_4v.mbn:odm/firmware/vpu30_4v.mbn|0b938f2ccbe47b4b92982efc48c0bd8a261bf3b2
+vendor/firmware/CAMERA_ICP.b20:odm/firmware/CAMERA_ICP.b20|cdd18b970f1dfd50469d90fa6bf3f6ca383351bd
+vendor/firmware/CAMERA_ICP.mbn:odm/firmware/CAMERA_ICP.mbn|144b42c7d16d9ed2d08ded151c5681054eaea812
+vendor/firmware/CAMERA_ICP.mdt:odm/firmware/CAMERA_ICP.mdt|bfb7ff345f387fc8d522d092798dc84027838de0
+vendor/firmware/a740_zap.b02:odm/firmware/a740_zap.b02|1e79586c6513deb397ea85b466f71f8ebec5490b
+vendor/firmware/a740_zap.mbn:odm/firmware/a740_zap.mbn|c6ad7e264ad37a4f5b73c97058f8735ad7b3c5da
+vendor/firmware/a740_zap.mdt:odm/firmware/a740_zap.mdt|be82b6cbf0148797f9ce207c5b19643846764483
+vendor/firmware/evass.b19:odm/firmware/evass.b19|0112cf064a12de5a153b3beca75b0c6fe74aab75
+vendor/firmware/evass.mbn:odm/firmware/evass.mbn|522a1a45e5643b672289a13f6f1259e5691ec491
+vendor/firmware/evass.mdt:odm/firmware/evass.mdt|61da3d98c810f085916614c8a25aa31cd241a58a
+vendor/firmware/vpu30_4v.mbn:odm/firmware/vpu30_4v.mbn|0025cbcf3a70ef2f89a5b090ac4df990380aadfc
 
 # Vendor firmware
 vendor/firmware/DM1_LX83118_CM002.dat
