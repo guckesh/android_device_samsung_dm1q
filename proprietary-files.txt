@@ -21,9 +21,7 @@ vendor/lib64/camera/com.samsung.sensormodule.1_lsi_s5k3lu.bin
 vendor/lib64/camera/com.samsung.sensormodule.2_sony_imx564.bin
 vendor/lib64/camera/com.samsung.sensormodule.3_lsi_s5k3k1.bin
 vendor/lib64/camera/com.samsung.tuned.lsi_s5k3k1.bin
-vendor/lib64/camera/com.samsung.tuned.lsi_s5k3lu.bin
 vendor/lib64/camera/com.samsung.tuned.lsi_s5kgn3.bin
-vendor/lib64/camera/com.samsung.tuned.sony_imx564.bin
 vendor/lib64/camera/components/com.qti.eisv2.so
 vendor/lib64/camera/components/com.qti.eisv3.so
 vendor/lib64/camera/components/com.qti.hvx.addconstant.so
@@ -226,7 +224,6 @@ vendor/firmware/hpnv21g.baa
 vendor/firmware/hpnv21g.bb7
 vendor/firmware/hpnv21g.bb9
 vendor/firmware/hpnv21g.bin
-vendor/firmware/mfc/mfc_fw_flash_cps4038.bin
 
 # Wifi firmware
 vendor/firmware/Data.msc
@@ -240,7 +237,6 @@ vendor/firmware/qca6490/bdwlang.elf1
 vendor/firmware/qca6490/bdwlang.elf10
 vendor/firmware/qca6490/bdwlang.elf2
 vendor/firmware/qca6490/m3.bin
-vendor/firmware/qca6490/regdb.bin
 vendor/firmware/qca6490/regdb.bin
 
 # WiFi
