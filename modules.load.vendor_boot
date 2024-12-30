@@ -9,7 +9,9 @@ qcom_rpmh.ko
 cmd-db.ko
 gcc-kalama.ko
 clk-qcom.ko
+sec_debug.ko
 gdsc-regulator.ko
+debug-regulator.ko
 proxy-consumer.ko
 icc-rpmh.ko
 socinfo.ko
@@ -24,6 +26,7 @@ bwmon.ko
 qcom-dcvs.ko
 dcvs_fp.ko
 qcom-cpufreq-hw.ko
+sec_pm_log.ko
 sched-walt.ko
 thermal_pause.ko
 cpu_hotplug.ko
@@ -81,10 +84,10 @@ stub-regulator.ko
 qcom_aoss.ko
 msm_qmp.ko
 ufs_qcom.ko
-ufshcd-crypto-qti.ko
+abc.ko
 sec_class.ko
+ufshcd-crypto-qti.ko
 arm_smmu.ko
-sdhci-msm.ko
 qcom_rimps.ko
 c1dcvs_vendor.ko
 c1dcvs_scmi.ko
