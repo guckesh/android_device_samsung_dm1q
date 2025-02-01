@@ -218,17 +218,17 @@ vendor/firmware/tsp_stm/fts2ba61y_dm1q_boe.bin
 # VPU firmware
 vendor/firmware/vpu30_4v.mbn
 
-# Vendor firmware - from S9110ZHU4CXH7
-vendor/firmware/CAMERA_ICP.b20:odm/firmware/CAMERA_ICP.b20|cdd18b970f1dfd50469d90fa6bf3f6ca383351bd
-vendor/firmware/CAMERA_ICP.mbn:odm/firmware/CAMERA_ICP.mbn|144b42c7d16d9ed2d08ded151c5681054eaea812
-vendor/firmware/CAMERA_ICP.mdt:odm/firmware/CAMERA_ICP.mdt|bfb7ff345f387fc8d522d092798dc84027838de0
-vendor/firmware/a740_zap.b02:odm/firmware/a740_zap.b02|1e79586c6513deb397ea85b466f71f8ebec5490b
-vendor/firmware/a740_zap.mbn:odm/firmware/a740_zap.mbn|c6ad7e264ad37a4f5b73c97058f8735ad7b3c5da
-vendor/firmware/a740_zap.mdt:odm/firmware/a740_zap.mdt|be82b6cbf0148797f9ce207c5b19643846764483
-vendor/firmware/evass.b19:odm/firmware/evass.b19|0112cf064a12de5a153b3beca75b0c6fe74aab75
-vendor/firmware/evass.mbn:odm/firmware/evass.mbn|522a1a45e5643b672289a13f6f1259e5691ec491
-vendor/firmware/evass.mdt:odm/firmware/evass.mdt|61da3d98c810f085916614c8a25aa31cd241a58a
-vendor/firmware/vpu30_4v.mbn:odm/firmware/vpu30_4v.mbn|0025cbcf3a70ef2f89a5b090ac4df990380aadfc
+# Vendor firmware - from S9110ZHS5CXL1
+vendor/firmware/CAMERA_ICP.b20:odm/firmware/CAMERA_ICP.b20|c966c452e00fb0ee59bfd647fd02ad03a4ae8476
+vendor/firmware/CAMERA_ICP.mbn:odm/firmware/CAMERA_ICP.mbn|59c7ce9244d9856538660150d5f79fcaa4f1631c
+vendor/firmware/CAMERA_ICP.mdt:odm/firmware/CAMERA_ICP.mdt|922900709bf1c65a0a67b0c2bb40ed77edd6b88c
+vendor/firmware/a740_zap.b02:odm/firmware/a740_zap.b02|c3ed0b0c5a8fed0fca148c43aea8ae0e5ca6f61d
+vendor/firmware/a740_zap.mbn:odm/firmware/a740_zap.mbn|e0c1016f15796ca925c5b704ee69da0af036e06d
+vendor/firmware/a740_zap.mdt:odm/firmware/a740_zap.mdt|459bdbc49955bb588f6cd5df2747f1cf69a484c3
+vendor/firmware/evass.b19:odm/firmware/evass.b19|c48f94e390bd597aeb5fa6f6aaf163a9d89cbba3
+vendor/firmware/evass.mbn:odm/firmware/evass.mbn|6267fe6fce7c60691fd8bfd29ceb2b2be656acdb
+vendor/firmware/evass.mdt:odm/firmware/evass.mdt|53754bd94b6a646af0c13565acbe86203be70ebb
+vendor/firmware/vpu30_4v.mbn:odm/firmware/vpu30_4v.mbn|56b50e95725c630de54547b57912a0b75074461f
 
 # Vendor firmware
 vendor/firmware/DM1_LX83118_CM002.dat
